@@ -1,0 +1,10 @@
+Once you run the project, it will ask you map lenght in the format like "5 5" after you init map, program ask you the placement of rover, you should place rover a valid coordinate.
+After you placement the rover to the correct coordinate, program will let you to give the commands for moving and replacement the rover.
+Placement format: "1 2 N"
+N will respond to the direction, it could be N, W, S or E
+Moving command: "LLRRMMFFBB"
+L: will move the rover to the left.
+R: wiil move the rover to the right.
+F: will move the rover top.
+B: will move the rover bottom.
+List: will show you the map, the correspond index to the mars marked with "X"
